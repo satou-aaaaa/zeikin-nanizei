@@ -1,0 +1,8 @@
+{
+  "name": "zeikin-nanizei-qa",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "playwright": "1.65.1"
+  }
+}
